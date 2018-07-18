@@ -20,7 +20,7 @@ Weather app, to fetch current location, search location and fetch weather detail
    Carthage is used as dependency manager by default.
 
 
-To Search Location, after searching press enter or search button
+To Search Location, after enter search string, press enter or search button
 
 ## Author
 
